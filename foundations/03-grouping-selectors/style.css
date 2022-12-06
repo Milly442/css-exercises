@@ -1,0 +1,13 @@
+button{
+    text-align: center;
+    font-size: 120%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+#one{
+   background-color: purple;
+   color: goldenrod;
+}
+#two{
+    background-color: aquamarine;
+    color: blueviolet;
+}

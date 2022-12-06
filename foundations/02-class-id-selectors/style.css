@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+.One{
+    color:red;
+    font-size: larger;
+    font-style: italic;
+}
+.Two{
+    color: rgb(255,65,120);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#1{
+    color:black;
+}
+#2{
+    color:green;
+}
